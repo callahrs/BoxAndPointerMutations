@@ -9,6 +9,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 import rosegraphics as rg
 
+
 ########################################################################
 # Students:  You will not write any code in this module,
 #            but there ARE things TO DO below.
@@ -17,8 +18,8 @@ import rosegraphics as rg
 
 def main():
     """ Runs several examples. """
-    # example1()
-    # example2()
+    example1()
+    example2()
 
 
 # ----------------------------------------------------------------------
