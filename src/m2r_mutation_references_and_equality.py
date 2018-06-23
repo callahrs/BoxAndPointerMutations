@@ -7,10 +7,11 @@ This module demonstrates:
  5. Two equality operators:   is   ==
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+         their colleagues and Riley Callahan.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
+
 
 ########################################################################
 # Students:  You will not write any code in this module,
